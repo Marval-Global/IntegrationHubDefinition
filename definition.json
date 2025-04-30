@@ -1,17 +1,41 @@
- [
-    {
-      name: 'plugin',
-      description: 'Description',
-      downloadUrl: '#'
-    },
-    {
-      name: 'Plugin',
-      description: 'Description',
-      downloadUrl: '#'
-    },
-    {
-      name: 'Plugin',
-      description: 'Description',
-      downloadUrl: '#'
-    }
-  ];
+[{
+"title": "JIRA",
+"icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/JIRA.png",
+"download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/jira.zip",
+"description": "Link JIRA tasks to Marval requests"
+},
+{
+"title": "Marval Projects",
+"icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/Marval2.png",
+"download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/marval.zip",
+"description": "Link Marval Projects to Marval Requests"
+}
+,
+{
+"title": "Teams Handover",
+"icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/Teams.png",
+"download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/teams.zip",
+"description": "Provide a Teams button to initiate Teams Calls"
+}
+,
+{
+"title": "Azure DevOps",
+"icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/AzureDevOps.png",
+"download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/azuredevops.zip",
+"description": "Link Azure DevOps tasks to Marval requests"
+}
+,
+{
+"title": "Google Maps",
+"icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/GoogleMaps.png",
+"download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/maps.zip",
+"description": "Provide request coordinates on a map"
+}
+,
+{
+"title": "ChatGPT",
+"icon": "https://dev.marvalaustralia.com.au/MSM/rfp/plugins/MarvalSoftware/MarvalSoftware.Plugins.ChatGPT2/0.0.4/img/chatgpt_32.png",
+"download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/chatgpt.zip",
+"description": "Lookup request description in ChatGPT"
+}
+]
