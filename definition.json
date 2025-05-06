@@ -7,7 +7,7 @@
 
 {
 "title": "Twilio",
-"icon": "/assets/images/twiliologo.png",
+"icon": "assets/images/twiliologo.png",
 "download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/chatgpt.zip",
 "description": "Provide phone services directly from Marval"
 },
