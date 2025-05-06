@@ -1,5 +1,5 @@
 [{
-"title": "JIRA",
+"title": "JIRA - Coming Soon",
 "icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/JIRA.png",
 "download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/jira.zip",
 "description": "Link JIRA tasks to Marval requests"
@@ -16,8 +16,13 @@
 "icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/Teams.png",
 "download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/teams.zip",
 "description": "Provide a Teams button to initiate Teams Calls"
-}
-,
+},
+  {
+"title": "Teams Chatbot",
+"icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/Teams.png",
+"download": "https://chatbot.marval.cloud/",
+"description": "Provide full teams chat integration with self service virtual agent."
+},
 {
 "title": "Azure DevOps",
 "icon": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/icons/AzureDevOps.png",
@@ -38,4 +43,5 @@
 "download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/chatgpt.zip",
 "description": "Lookup request description in ChatGPT"
 }
+  
 ]
