@@ -43,7 +43,7 @@
 },
 {
 "title": "ChatGPT",
-"icon": "assets/images/chatgpt.png",
+"icon": "assets/images/chatgptlogo.png",
 "download": "https://marval-au-license.s3.ap-southeast-2.amazonaws.com/plugins/chatgpt.zip",
 "description": "Lookup request description in ChatGPT"
 } 
